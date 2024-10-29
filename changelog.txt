@@ -1,0 +1,5 @@
+*** Advanced Shipping Change log ***
+
+
+2024-02-20 - version 1.0.4
+* Initial release of the plugin.

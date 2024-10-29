@@ -1,0 +1,474 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Advanced Shipping for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-16 11:04+0000\n"
+"PO-Revision-Date: 2023-05-16 11:04+0000\n"
+"Last-Translator: \n"
+"Language-Team: French (France)\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2\n"
+"X-Domain: advanced-shipping"
+
+#: includes/admin/meta-boxes/shipping/conditions.php:74
+#: includes/admin/meta-boxes/shipping/conditions.php:119
+#: includes/admin/settings/shipping/zones/instance-conditions.php:75
+#: includes/admin/settings/shipping/zones/instance-conditions.php:115
+#: includes/admin/meta-boxes/shipping/conditions/new/conditions-group.php:36
+msgid "Add Condition"
+msgstr ""
+
+#: includes/admin/meta-boxes/shipping/conditions.php:130
+#: includes/admin/settings/shipping/zones/instance-conditions.php:121
+msgid "Add group"
+msgstr ""
+
+#: includes/admin/meta-boxes/shipping/conditions.php:74
+#: includes/admin/meta-boxes/shipping/conditions.php:119
+#: includes/admin/settings/shipping/zones/instance-conditions.php:75
+#: includes/admin/settings/shipping/zones/instance-conditions.php:115
+msgid "Add new condition"
+msgstr ""
+
+#: includes/class-af-a-s-main.php:35 includes/class-af-a-s-main.php:36
+#: includes/class-af-a-s-main.php:77 includes/class-af-a-s-main.php:78
+msgid "Add New Rule"
+msgstr ""
+
+#: includes/admin/meta-boxes/shipping/conditions.php:130
+#: includes/admin/settings/shipping/zones/instance-conditions.php:121
+msgid "Add OR group"
+msgstr ""
+
+#: includes/admin/settings/shipping/zones/instance-settings.php:23
+#: includes/admin/settings/shipping/zones/instance-settings.php:24
+msgid "Add shipping title."
+msgstr ""
+
+#. Author of the plugin
+msgid "cloudtech"
+msgstr ""
+
+#: includes/admin/meta-boxes/shipping/settings.php:37
+#: includes/admin/settings/shipping/zones/instance-settings.php:38
+msgid "Additional Fee"
+msgstr ""
+
+#: includes/admin/meta-boxes/shipping/settings.php:41
+#: includes/admin/settings/shipping/zones/instance-settings.php:42
+msgid "Additional fee for Shipping."
+msgstr ""
+
+#: includes/class-af-a-s-main.php:44 includes/class-af-a-s-main.php:86
+msgid "Advanced Shipping"
+msgstr ""
+
+#. Name of the plugin
+msgid "Advanced Shipping for WooCommerce"
+msgstr ""
+
+#: cloudtech-advanced-shipping.php:34
+msgid ""
+"Advanced Shipping for WooCommerce plugin is inactive. WooCommerce plugin "
+"must be active in order to activate it."
+msgstr ""
+
+#: includes/class-af-a-s-conditional-data.php:82
+msgid "Backorder"
+msgstr ""
+
+#: includes/afads-general-functions.php:101
+msgid "Cart Based"
+msgstr ""
+
+#: includes/admin/meta-boxes/shipping/pricing/cost-per-category.php:10
+msgid "Category"
+msgstr ""
+
+#: includes/afads-general-functions.php:287
+msgid "Choose customer"
+msgstr ""
+
+#: includes/afads-general-functions.php:345
+#: includes/afads-general-functions.php:355
+msgid "Choose shipping class"
+msgstr ""
+
+#: includes/afads-general-functions.php:375
+#: includes/afads-general-functions.php:385
+msgid "Choose stock status"
+msgstr ""
+
+#: includes/afads-general-functions.php:314
+#: includes/afads-general-functions.php:324
+msgid "Choose user role"
+msgstr ""
+
+#: includes/admin/meta-boxes/shipping/pricing/cost-per-shipping-class.php:50
+#: includes/admin/meta-boxes/shipping/pricing/cost-per-shipping-class.php:75
+#: includes/admin/meta-boxes/shipping/pricing/new/shipping-class.php:16
+msgid "Choose your shipping class"
+msgstr ""
+
+#: includes/afads-general-functions.php:22
+msgid "City"
+msgstr ""
+
+#. Description of the plugin
+msgid "Conditional shipping based on more than 14 conditions."
+msgstr ""
+
+#: includes/afads-general-functions.php:14
+msgid "Contains Category"
+msgstr ""
+
+#: includes/afads-general-functions.php:13
+msgid "Contains Product"
+msgstr ""
+
+#: includes/afads-general-functions.php:17
+msgid "Contains Shipping class"
+msgstr ""
+
+#: includes/admin/meta-boxes/shipping/settings.php:32
+#: includes/admin/settings/shipping/zones/instance-settings.php:33
+msgid "Cost of Shipping."
+msgstr ""
+
+#: includes/admin/meta-boxes/shipping/pricing.php:24
+#: includes/admin/settings/shipping/zones/instance-pricing.php:22
+msgid "Cost per category"
+msgstr ""
+
+#: includes/admin/meta-boxes/shipping/settings.php:47
+#: includes/admin/settings/shipping/zones/instance-settings.php:48
+msgid "Cost Per Item"
+msgstr ""
+
+#: includes/admin/meta-boxes/shipping/pricing.php:22
+#: includes/admin/settings/shipping/zones/instance-pricing.php:20
+msgid "Cost per product"
+msgstr ""
+
+#: includes/admin/meta-boxes/shipping/pricing.php:23
+#: includes/admin/settings/shipping/zones/instance-pricing.php:21
+msgid "Cost per shipping class"
+msgstr ""
+
+#: includes/admin/meta-boxes/shipping/pricing.php:21
+#: includes/admin/settings/shipping/zones/instance-pricing.php:19
+msgid "Cost per weight"
+msgstr ""
+
+#: includes/admin/meta-boxes/shipping/settings.php:56
+#: includes/admin/settings/shipping/zones/instance-settings.php:57
+msgid "Cost Per Wight"
+msgstr ""
+
+#: includes/afads-general-functions.php:23
+msgid "Country"
+msgstr ""
+
+#: includes/afads-general-functions.php:15
+msgid "Coupon"
+msgstr ""
+
+#: includes/afads-general-functions.php:109
+msgid "Customer Based"
+msgstr ""
+
+#: includes/class-af-a-s-main.php:37 includes/class-af-a-s-main.php:79
+msgid "Edit Rule"
+msgstr ""
+
+#: includes/class-af-a-s-ajax.php:24 includes/class-af-a-s-ajax.php:63
+#: includes/class-af-a-s-ajax.php:99 includes/class-af-a-s-ajax.php:134
+msgid "Failed Ajax security check!"
+msgstr ""
+
+#: includes/admin/meta-boxes/shipping/pricing/cost-per-category.php:19
+#: includes/admin/meta-boxes/shipping/pricing/cost-per-product.php:26
+#: includes/admin/meta-boxes/shipping/pricing/cost-per-shipping-class.php:33
+#: includes/admin/meta-boxes/shipping/pricing/cost-per-weight.php:23
+msgid "Fee Amount"
+msgstr ""
+
+#: includes/class-af-a-s-conditional-data.php:73
+msgid "Guest"
+msgstr ""
+
+#: includes/afads-general-functions.php:29
+msgid "Height"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://woocommerce.com/products/advanced-shipping/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.cloudtech.co"
+msgstr ""
+
+#: includes/afads-general-functions.php:367
+#: includes/class-af-a-s-conditional-data.php:80
+msgid "In Stock"
+msgstr ""
+
+#: includes/afads-general-functions.php:116
+msgid "is Equal to"
+msgstr ""
+
+#: includes/afads-general-functions.php:118
+msgid "is Greater than"
+msgstr ""
+
+#: includes/afads-general-functions.php:120
+msgid "is Greater than or equals"
+msgstr ""
+
+#: includes/afads-general-functions.php:119
+msgid "is Less than"
+msgstr ""
+
+#: includes/afads-general-functions.php:121
+msgid "is Less than or equals"
+msgstr ""
+
+#: includes/afads-general-functions.php:117
+msgid "is Not equal to"
+msgstr ""
+
+#: includes/afads-general-functions.php:30
+msgid "length"
+msgstr ""
+
+#: includes/admin/meta-boxes/shipping/pricing/cost-per-category.php:16
+#: includes/admin/meta-boxes/shipping/pricing/cost-per-product.php:23
+#: includes/admin/meta-boxes/shipping/pricing/cost-per-shipping-class.php:30
+msgid "Max Quantity"
+msgstr ""
+
+#: includes/admin/meta-boxes/shipping/pricing/cost-per-weight.php:20
+msgid "Max Weight"
+msgstr ""
+
+#: includes/admin/meta-boxes/shipping/pricing/cost-per-category.php:13
+#: includes/admin/meta-boxes/shipping/pricing/cost-per-product.php:20
+#: includes/admin/meta-boxes/shipping/pricing/cost-per-shipping-class.php:27
+msgid "Min Quantity"
+msgstr ""
+
+#: includes/admin/meta-boxes/shipping/pricing/cost-per-weight.php:17
+msgid "Min Weight"
+msgstr ""
+
+#: includes/class-af-a-s-main.php:38 includes/class-af-a-s-main.php:80
+msgid "New Rule"
+msgstr ""
+
+#: includes/class-af-a-s-main.php:41 includes/class-af-a-s-main.php:83
+msgid "No rule found"
+msgstr ""
+
+#: includes/class-af-a-s-main.php:42 includes/class-af-a-s-main.php:84
+msgid "No rule found in trash"
+msgstr ""
+
+#: includes/admin/meta-boxes/shipping/settings.php:70
+#: includes/admin/settings/shipping/zones/instance-settings.php:71
+msgid "None"
+msgstr ""
+
+#: includes/afads-general-functions.php:369
+msgid "On backorder"
+msgstr ""
+
+#: includes/class-af-a-s-conditional-data.php:81
+msgid "Out of Stock"
+msgstr ""
+
+#: includes/afads-general-functions.php:368
+msgid "out of Stock"
+msgstr ""
+
+#: includes/admin/meta-boxes/shipping/settings.php:51
+#: includes/admin/settings/shipping/zones/instance-settings.php:52
+msgid "Per item cost for shipping."
+msgstr ""
+
+#: includes/admin/meta-boxes/shipping/settings.php:60
+#: includes/admin/settings/shipping/zones/instance-settings.php:61
+msgid "per kg cost for shipping."
+msgstr ""
+
+#: includes/admin/meta-boxes/shipping/pricing/cost-per-product.php:17
+msgid "Product"
+msgstr ""
+
+#: includes/afads-general-functions.php:105
+msgid "Product Based"
+msgstr ""
+
+#: includes/afads-general-functions.php:35
+#: includes/afads-general-functions.php:107
+msgid "Products"
+msgstr ""
+
+#: includes/afads-general-functions.php:36
+msgid "Products Categories"
+msgstr ""
+
+#: includes/afads-general-functions.php:37
+msgid "Products Tags"
+msgstr ""
+
+#: includes/afads-general-functions.php:12
+msgid "Quantity"
+msgstr ""
+
+#: includes/admin/meta-boxes/shipping/conditions.php:23
+#: includes/admin/settings/shipping/zones/instance-conditions.php:24
+#: includes/admin/meta-boxes/shipping/conditions/new/conditions-group.php:5
+msgid "Remove"
+msgstr ""
+
+#: includes/admin/meta-boxes/shipping/conditions.php:65
+#: includes/admin/meta-boxes/shipping/conditions.php:113
+#: includes/admin/settings/shipping/zones/instance-conditions.php:66
+#: includes/admin/settings/shipping/zones/instance-conditions.php:109
+#: includes/admin/meta-boxes/shipping/conditions/new/condition-rule.php:28
+msgid "Remove Condition"
+msgstr ""
+
+#: includes/admin/meta-boxes/shipping/conditions.php:23
+#: includes/admin/settings/shipping/zones/instance-conditions.php:24
+#: includes/admin/meta-boxes/shipping/conditions/new/conditions-group.php:5
+msgid "Remove group"
+msgstr ""
+
+#: includes/class-af-a-s-main.php:46 includes/class-af-a-s-main.php:88
+msgid "Rule Priority"
+msgstr ""
+
+#: includes/class-af-a-s-main.php:40 includes/class-af-a-s-main.php:82
+msgid "Search Rule"
+msgstr ""
+
+#: includes/admin/meta-boxes/shipping/save-meta.php:14
+msgid "Security Violated!"
+msgstr ""
+
+#: includes/admin/meta-boxes/shipping/pricing/cost-per-shipping-class.php:24
+msgid "Shipping Class"
+msgstr ""
+
+#: includes/class-af-a-s-admin.php:180
+msgid "Shipping conditions"
+msgstr ""
+
+#: includes/admin/meta-boxes/shipping/settings.php:28
+#: includes/admin/settings/shipping/zones/instance-settings.php:29
+msgid "Shipping Cost"
+msgstr ""
+
+#: includes/class-af-a-s-admin.php:188
+msgid "Shipping Pricing"
+msgstr ""
+
+#: includes/class-af-a-s-main.php:34 includes/class-af-a-s-main.php:76
+msgid "Shipping Rule"
+msgstr ""
+
+#: includes/class-af-a-s-main.php:47 includes/class-af-a-s-main.php:89
+msgid "Shipping rule published"
+msgstr ""
+
+#: includes/class-af-a-s-main.php:48 includes/class-af-a-s-main.php:90
+msgid "Shipping rule updated"
+msgstr ""
+
+#: includes/class-af-a-s-main.php:33 includes/class-af-a-s-main.php:45
+#: includes/class-af-a-s-main.php:75 includes/class-af-a-s-main.php:87
+msgid "Shipping Rules"
+msgstr ""
+
+#: includes/class-af-a-s-admin.php:172
+msgid "Shipping Settings"
+msgstr ""
+
+#: includes/admin/meta-boxes/shipping/settings.php:19
+#: includes/admin/settings/shipping/zones/instance-settings.php:19
+msgid "Shipping Title"
+msgstr ""
+
+#: includes/afads-general-functions.php:25
+msgid "Specific customer"
+msgstr ""
+
+#: includes/afads-general-functions.php:21
+msgid "State"
+msgstr ""
+
+#: includes/afads-general-functions.php:31
+msgid "Stock"
+msgstr ""
+
+#: includes/afads-general-functions.php:32
+msgid "Stock Status"
+msgstr ""
+
+#: includes/afads-general-functions.php:9
+msgid "Subtotal"
+msgstr ""
+
+#: includes/afads-general-functions.php:10
+msgid "Subtotal Excl. tax"
+msgstr ""
+
+#: includes/afads-general-functions.php:11
+msgid "Tax"
+msgstr ""
+
+#: includes/admin/meta-boxes/shipping/settings.php:65
+#: includes/admin/settings/shipping/zones/instance-settings.php:66
+msgid "Tax Status"
+msgstr ""
+
+#: includes/admin/meta-boxes/shipping/settings.php:72
+#: includes/admin/settings/shipping/zones/instance-settings.php:73
+msgid "Tax Status for Shipping cost."
+msgstr ""
+
+#: includes/admin/meta-boxes/shipping/settings.php:69
+#: includes/admin/settings/shipping/zones/instance-settings.php:70
+msgid "Taxable"
+msgstr ""
+
+#: includes/afads-general-functions.php:103
+msgid "User Based"
+msgstr ""
+
+#: includes/afads-general-functions.php:24
+msgid "User role"
+msgstr ""
+
+#: includes/class-af-a-s-main.php:39 includes/class-af-a-s-main.php:81
+msgid "View Rule"
+msgstr ""
+
+#: includes/afads-general-functions.php:16
+msgid "Weight"
+msgstr ""
+
+#: includes/afads-general-functions.php:28
+msgid "Width"
+msgstr ""
+
+#: includes/afads-general-functions.php:20
+msgid "Zip code"
+msgstr ""

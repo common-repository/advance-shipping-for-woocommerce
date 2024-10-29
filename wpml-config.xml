@@ -1,0 +1,10 @@
+<wpml-config>
+  <custom-types>
+    <custom-type translate="0">af_ship_rule</custom-type>
+    <custom-type translate="0">af_ship_rule_alt</custom-type>
+    <custom-type translate="0">ars_rules</custom-type>
+  </custom-types>
+  <custom-fields>
+    <custom-field action="translate">afads_shipping_title</custom-field>
+  </custom-fields>
+</wpml-config>

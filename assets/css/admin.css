@@ -1,0 +1,320 @@
+table.cloudtech-table-option {
+	width: 100%;
+	border-collapse: collapse;
+}
+
+tr.cloudtech-option-field th {
+	width: 15% !important;
+	opacity: 1;
+	font-weight: normal;
+	font-size: 13px;
+	text-align: left;
+}
+
+tr.cloudtech-option-field td{
+	width: 70% !important;
+	padding: 7px 0px;
+}
+
+tr.cloudtech-option-field td span.description{
+	opacity: 0.8;
+}
+.cloudtech-option-field th .option-head h3 {
+	text-align: left;
+	margin: 8px 0px;
+}
+.cloudtech-option-field th span.description p {
+	font-style: normal;
+	text-align: left;
+	font-weight: 100;
+}
+
+
+element.style {
+}
+.meta-box-sortables input {
+	vertical-align: middle;
+}
+
+table.cloudtech-table-option input[type=color],
+table.cloudtech-table-option input[type=date],
+table.cloudtech-table-option input[type=datetime-local],
+table.cloudtech-table-option input[type=datetime],
+table.cloudtech-table-option input[type=email],
+table.cloudtech-table-option input[type=month],
+table.cloudtech-table-option input[type=number],
+table.cloudtech-table-option input[type=password],
+table.cloudtech-table-option input[type=search],
+table.cloudtech-table-option input[type=tel],
+table.cloudtech-table-option input[type=text],
+table.cloudtech-table-option input[type=time],
+table.cloudtech-table-option input[type=url],
+table.cloudtech-table-option input[type=week],
+table.cloudtech-table-option select,
+table.cloudtech-table-option textarea{
+	width: 200px;
+}
+
+table.cloudtech-table-option .dashicons-info{
+	opacity: 0.9;
+	line-height: 2;
+	font-size: 16px;
+	height: auto;
+	width: auto;
+}
+
+table.cloudtech-table-option .dashicons-info:hover{
+	opacity: 1;
+}
+
+.afads-tabs{
+	display: flex;
+}
+
+#af_ship_rule_pricing .inside{
+	margin: 0;
+	padding: 0;
+}
+
+.afads-tabs ul{
+	margin: 0;
+	width: 20%;
+	float: left;
+	line-height: 1em;
+	padding: 0 0 10px;
+	position: relative;
+	background-color: #fafafa;
+	border-right: 1px solid #eee;
+	box-sizing: border-box;
+}
+
+.afads-tabs ul li:hover, .afads-tabs ul li.ui-tabs-active{
+	background: lightgrey;
+}
+
+.afads-tabs ul li.ui-tabs-active a{
+	color: #555;
+	position: relative;
+	background-color: #eee;
+}
+
+.afads-tabs ul li{
+	margin: 0;
+	padding: 0;
+	display: block;
+	position: relative;
+}
+
+.afads-tabs ul li a{
+	margin: 0;
+	padding: 10px;
+	display: block;
+	box-shadow: none;
+	text-decoration: none;
+	line-height: 20px!important;
+	border-bottom: 1px solid #eee;
+}
+
+.afads-tabs ul li a{
+	text-decoration: none;
+}
+
+.afads-tabs-content{
+	padding: 5px 10px;
+	display: inline-block;
+	width: 76%;
+}
+
+select.afads_pricing_select{
+	min-width: 100px;
+}
+
+table.afads-pricing-table input[type=color],
+table.afads-pricing-table input[type=date],
+table.afads-pricing-table input[type=datetime-local],
+table.afads-pricing-table input[type=datetime],
+table.afads-pricing-table input[type=email],
+table.afads-pricing-table input[type=month],
+table.afads-pricing-table input[type=number],
+table.afads-pricing-table input[type=password],
+table.afads-pricing-table input[type=search],
+table.afads-pricing-table input[type=tel],
+table.afads-pricing-table input[type=text],
+table.afads-pricing-table input[type=time],
+table.afads-pricing-table input[type=url],
+table.afads-pricing-table input[type=week],
+table.afads-pricing-table select,
+table.afads-pricing-table textarea{
+	width: 100%;
+}
+
+table.afads-pricing-table th, table.afads-pricing-table td{
+	padding: 5px;
+}
+
+table.afads-pricing-table th{
+	text-align: left;
+	font-weight: 500;
+}
+
+select.afads_pricing_select{
+	min-width: 180px;
+}
+
+.afads-pricing-table .dashicons-no-alt{
+	color: white;
+	cursor: pointer;
+	display: none;
+	background: #444444;
+	border-radius: 20px;
+	width: 16px;
+	height: 16px;
+	font-size: 16px;
+}
+
+table.afads-pricing-table tr:hover .dashicons-no-alt{
+	display: inline-block;
+}
+
+.afads-pricing-table .dashicons-no-alt:hover{
+	opacity: 0.6;
+}
+
+table.afads-pricing-table .select2-container .select2-selection--single {
+	margin: 0px;
+	height: 30px;
+}
+
+div.add-condition-button{
+	text-align: right;
+	padding: 5px 25px;
+}
+
+div.add-group-button{
+	text-align: right;
+	padding: 5px 10px;
+}
+
+.div-conditions-group{
+	background: #fafafa;
+	padding: 30px 10px 10px 25px;
+	border-top-left-radius: 0;
+	border-bottom-right-radius: 0;
+	border-top-right-radius: 20px;
+	border-bottom-left-radius: 20px;
+	margin-bottom: 15px;
+	margin-top: 10px;
+	border: 1px solid #d9d8d8;
+	position: relative;
+}
+
+.div-conditions-group .abs-number{
+	position: absolute;
+	left: 0;
+	top: 0;
+	background: #ebeaea;
+	padding: 4px 8px;
+	border-bottom-right-radius: 10px;
+}
+
+div.afads-conditions-wrap{
+	display: block;
+}
+
+div.div-conditions-wrapper fieldset.or{
+	max-width: 99%;
+	width: 20%;
+	display: none;
+}
+
+div.div-conditions-wrapper fieldset.and{
+	position: absolute;
+	transform: translate(1px, 100%);
+	left: 0;
+	display: none;
+}
+
+div.div-conditions-group:hover fieldset{
+	display: inline-block;
+}
+
+div.div-conditions-wrapper fieldset legend{
+	text-align: center;
+	padding: 0px 11px;
+	color: #e3e2e2;
+}
+
+div.afads-condition-wrap{
+	display: flex;
+	flex-direction: row;
+	gap: 5px;
+	padding: 5px 0px;
+	align-items: center;
+}
+
+div.afads-conditions-wrap input,
+div.afads-conditions-wrap select{
+	width: 100%;
+}
+
+div.afads-condition-type{
+	flex-basis: 35%;
+}
+
+div.afads-condition-operator{
+	flex-basis: 25%;
+}
+
+div.afads-condition-value{
+	flex-basis: 35%;
+}
+
+
+div.afads-condition-wrap:hover div.afads-condition-remove span{
+	display: inline-block;
+}
+
+div.afads-condition-remove span{
+	float: right;
+	color: #ffffff;
+	cursor: pointer;
+	border-radius: 24px;
+	background: #3c434a;
+	margin-top: 5px;
+	width: 16px;
+	height: 16px;
+	font-size: 16px;
+	display: none;
+}
+
+div.afads-condition-remove span:hover{
+	opacity: 0.6;
+}
+
+div.div-conditions-group .afads-group-actions{
+	position: absolute;
+	top: 0;
+	right: 0;
+	padding: 5px 15px;
+	display: none;
+}
+
+div.div-conditions-group:hover .afads-group-actions{
+	display: inline-block;
+}
+
+div.div-conditions-group .afads-group-actions a{
+	text-decoration: none;
+	text-align: center;
+}
+
+div.div-conditions-group .afads-group-actions a.afads-dupliacte-group-btn{
+	color: #9acd32;
+	padding: 0px 5px;
+}
+
+div.div-conditions-group .afads-group-actions a.afads-remove-group-btn{
+	color: #cd5c5c;
+	padding: 0px 5px;
+}
+
